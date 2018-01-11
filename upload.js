@@ -11,14 +11,14 @@ class upload{
     this.selectBtnStyle="width:150px;height:40px;border-radius:5px;background:orange;";
     this.selectBtnCon="请选择";
 
-    this.upBtnStyle="width:150px;height:40px;border-radius:5px;background:#ccc;clear:both;cursor: pointer;"
+    this.upBtnStyle="width:150px;height:40px;border-radius:5px;background:#ccc;clear:both;cursor: pointer;";
     this.upBtnCon="点击上传";
 
     this.pStyle="width:150px;border:1px solid red;";
 
       this.listStyle="width:150px;height:150px;float:left;border:1px solid #ccc;padding:5px;";
 
-      this.progressStyle="width:100%;height:5px;position:absolute;bottom:0;left:0;"
+      this.progressStyle="width:100%;height:5px;position:absolute;bottom:0;left:0;";
 
       this.bar="width:0%;height:100%;background:red";
       this.errorStyle="width:100%;height:30px;position:absolute;left:0;top:0;right:0;bottom:0;margin:auto;text-align:center;line-height:30px;color:red;background:rgba(0,0,0,.8)";
